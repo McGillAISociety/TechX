@@ -17,7 +17,6 @@ import pandas as pd
 import cv2
 import keras 
 import sklearn 
-import torch.nn as nn
 
 print("Hello TechX Class of 2019...")
-print("If you have import errors please raise your hand and let one of us know!")
+print("If you see this message, then you're good to go!")
