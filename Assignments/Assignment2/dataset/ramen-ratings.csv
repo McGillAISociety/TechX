@@ -1847,6 +1847,7 @@ Review #,Brand,Variety,Style,Country,Stars,Top Ten
 736,Maruchan,Yakisoba Spicy Vegetable,Tray,United States,3.25,
 735,Ottogi,Odongtong Myon Seafood,Bowl,South Korea,2.75,
 734,Indomie,Mi Goreng Rasa Ayam Panggang Jumbo (Local),Pack,Indonesia,5.0,"
+"
 733,Indomie,Rasa Soto Betawi,Pack,Indonesia,4.5,
 732,Indomie,Curly Noodle With Chicken Chilli Paddi,Pack,Indonesia,4.25,
 731,Indomie,Rasa Mi Kocok Bandung,Pack,Indonesia,3.25,
@@ -2248,7 +2249,8 @@ Review #,Brand,Variety,Style,Country,Stars,Top Ten
 335,Goku Uma,Hot & Spicy Beef,Bowl,Japan,3.5,
 334,Nissin,Big Cup Noodles Beef,Cup,United States,2.125,
 333,Nissin,Big Cup Noodles Shrimp,Cup,United States,2.25,
-332,Nongshim,Champong Oriental Noodles,Cup,South Korea,3.75,
+332,Nongshim,Champong Oriental Noodles,Cup,South Korea,3.75,"
+"
 331,Sunlee,Crab Noodle,Bowl,Thailand,4.5,
 330,Vifon,Phu Gia Instant Bean Thread Chicken,Pack,Vietnam,3.25,
 329,Mee Jang,Artificial Beef Flavor,Bowl,Thailand,3.5,
@@ -2535,7 +2537,8 @@ Review #,Brand,Variety,Style,Country,Stars,Top Ten
 48,Indomie,Shrimp Flavor,Pack,Indonesia,3.0,
 47,Indomie,Mi Goreng Jumbo Barbecue Chicken,Pack,Indonesia,5.0,2012 #2
 46,Indomie,Mi Goreng Jumbo Meatball,Pack,Indonesia,3.0,
-45,Indomie,Mi Goreng Sate,Pack,Indonesia,5.0,
+45,Indomie,Mi Goreng Sate,Pack,Indonesia,5.0,"
+"
 44,Indomie,Special Chicken,Pack,Indonesia,4.25,
 43,Kim Ve Wong,Jaopai Series: Vegetarian Instant Noodles,Bowl,China,0.0,
 42,Ve Wong,Kung-Fu Chicken Flavor,Pack,Vietnam,2.75,
@@ -2579,4 +2582,4 @@ Review #,Brand,Variety,Style,Country,Stars,Top Ten
 4,Wai Wai,Oriental Style Instant Noodles,Pack,Thailand,1.0,
 3,Wai Wai,Tom Yum Shrimp,Pack,Thailand,2.0,
 2,Wai Wai,Tom Yum Chili Flavor,Pack,Thailand,2.0,
-1,Westbrae,Miso Ramen,Pack,United States,0.5
+1,Westbrae,Miso Ramen,Pack,United States,0.5,
